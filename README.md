@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Louis
+Hi👋! My name is Louis
 ==============================================================================================================================
 
 I got into coding at quite a young age and started with stuff like game development and Minecraft plugins, but I never got very far with those. The first language I actually learned after that was Python.
