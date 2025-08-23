@@ -6,7 +6,7 @@ I got into coding at quite a young age and started with stuff like game developm
 * 🌍  I'm based in Germany  
 * 🎂  I'm 16 years old  
 * 🧠  I'm currently learning PHP, Laravel, Tailwind, and SQL
-* 🚀  Latest project: [steam profile remake](http://https://lupqn.github.io/steam-profile-remake/)  
+* 🚀  Latest project: [steam profile remake](https://lupqn.github.io/steam-profile-remake/)  
 * ⚡  Currently in an apprenticeship  
 
 <p align="left">
